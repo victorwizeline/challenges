@@ -1,0 +1,10 @@
+{
+  "challenges": [
+    {
+      "title": "challenge name",
+      "difficulty": 4,
+      "categories": ["ui", "standardlibrary"],
+      "expectedTime": 30
+    }
+  ]
+}
