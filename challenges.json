@@ -4,7 +4,7 @@
     "difficulty": 3,
     "categories": ["ui", "standardlibrary"],
     "expectedTime": 30
-  }
+  },
   {
     "title": "challenge two",
     "difficulty": 2,
