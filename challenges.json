@@ -1,10 +1,14 @@
-{
-  "challenges": [
-    {
-      "title": "challenge name",
-      "difficulty": 4,
-      "categories": ["ui", "standardlibrary"],
-      "expectedTime": 30
-    }
-  ]
-}
+[
+  {
+    "title": "challenge one",
+    "difficulty": 3,
+    "categories": ["ui", "standardlibrary"],
+    "expectedTime": 30
+  }
+  {
+    "title": "challenge two",
+    "difficulty": 2,
+    "categories": ["ui", "standardlibrary"],
+    "expectedTime": 30
+  }
+]
