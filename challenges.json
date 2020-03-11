@@ -3,12 +3,14 @@
     "title": "challenge one",
     "difficulty": 3,
     "categories": ["ui", "standardlibrary"],
-    "expectedTime": 30
+    "expectedTime": 30,
+    "branch": "challenge-one"
   },
   {
     "title": "challenge two",
     "difficulty": 2,
     "categories": ["ui", "standardlibrary"],
-    "expectedTime": 30
+    "expectedTime": 30,
+    "branch": "challenge-two"
   }
 ]
