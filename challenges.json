@@ -4,13 +4,15 @@
     "difficulty": 3,
     "categories": ["ui", "standardlibrary"],
     "expectedTime": 30,
-    "branch": "challenge-one"
+    "branch": "challenge-one",
+    "branch-solved": "challenge-one-solved"
   },
   {
     "title": "challenge two",
     "difficulty": 2,
     "categories": ["ui", "standardlibrary"],
     "expectedTime": 30,
-    "branch": "challenge-two"
+    "branch": "challenge-two",
+    "branch-solved": "challenge-two-solved"
   }
 ]
