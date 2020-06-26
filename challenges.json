@@ -1,18 +1,34 @@
 [
   {
     "title": "challenge one",
-    "difficulty": 3,
-    "categories": ["ui", "standardlibrary"],
-    "expectedTime": 30,
+    "difficulty": 1,
+    "categories": ["designpatterns", "standardlibrary"],
+    "expectedTime": 15,
     "branch": "challenge-one",
     "branchSolved": "challenge-one-solved"
   },
   {
     "title": "challenge two",
-    "difficulty": 2,
-    "categories": ["ui", "standardlibrary"],
+    "difficulty": 1,
+    "categories": ["ui", "algorithms"],
     "expectedTime": 30,
     "branch": "challenge-two",
     "branchSolved": "challenge-two-solved"
+  },
+  {
+    "title": "challenge three",
+    "difficulty": 2,
+    "categories": ["presentationpatterns", "standardlibrary"],
+    "expectedTime": 20,
+    "branch": "challenge-three",
+    "branchSolved": "challenge-three-solved"
+  },
+  {
+    "title": "challenge four",
+    "difficulty": 2,
+    "categories": ["ui", "standardlibrary"],
+    "expectedTime": 30,
+    "branch": "challenge-four",
+    "branchSolved": "challenge-four-solved"
   }
 ]
