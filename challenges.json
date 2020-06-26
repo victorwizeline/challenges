@@ -1,6 +1,6 @@
 [
   {
-    "title": "challenge one",
+    "title": "Challenge one",
     "difficulty": 1,
     "categories": ["designpatterns", "standardlibrary"],
     "expectedTime": 15,
@@ -8,7 +8,7 @@
     "branchSolved": "challenge-one-solved"
   },
   {
-    "title": "challenge two",
+    "title": "Challenge two",
     "difficulty": 1,
     "categories": ["ui", "algorithms"],
     "expectedTime": 15,
@@ -16,19 +16,11 @@
     "branchSolved": "challenge-two-solved"
   },
   {
-    "title": "challenge three",
+    "title": "My challenge",
     "difficulty": 2,
     "categories": ["presentationpatterns", "standardlibrary"],
     "expectedTime": 10,
-    "branch": "challenge-three",
-    "branchSolved": "challenge-three-solved"
-  },
-  {
-    "title": "challenge four",
-    "difficulty": 2,
-    "categories": ["ui", "standardlibrary"],
-    "expectedTime": 15,
-    "branch": "challenge-four",
-    "branchSolved": "challenge-four-solved"
+    "branch": "my-challenge-one",
+    "branchSolved": "my-challenge-one-solved"
   }
 ]
