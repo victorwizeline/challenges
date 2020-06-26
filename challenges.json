@@ -22,5 +22,13 @@
     "expectedTime": 10,
     "branch": "my-challenge-one",
     "branchSolved": "my-challenge-one-solved"
+  },
+  {
+    "title": "My new challenge",
+    "difficulty": 3,
+    "categories": ["ui", "presentationpatterns", "standardlibrary"],
+    "expectedTime": 15,
+    "branch": "my-new-challenge",
+    "branchSolved": "wy-new-challenge-solved"
   }
 ]
