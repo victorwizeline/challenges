@@ -29,6 +29,6 @@
     "categories": ["ui", "presentationpatterns", "standardlibrary"],
     "expectedTime": 15,
     "branch": "my-new-challenge",
-    "branchSolved": "wy-new-challenge-solved"
+    "branchSolved": "my-new-challenge-solved"
   }
 ]
