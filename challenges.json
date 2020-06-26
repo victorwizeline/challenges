@@ -5,7 +5,7 @@
     "categories": ["ui", "standardlibrary"],
     "expectedTime": 30,
     "branch": "challenge-one",
-    "branch-solved": "challenge-one-solved"
+    "branchSolved": "challenge-one-solved"
   },
   {
     "title": "challenge two",
@@ -13,6 +13,6 @@
     "categories": ["ui", "standardlibrary"],
     "expectedTime": 30,
     "branch": "challenge-two",
-    "branch-solved": "challenge-two-solved"
+    "branchSolved": "challenge-two-solved"
   }
 ]
