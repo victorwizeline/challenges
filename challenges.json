@@ -17,7 +17,7 @@
   },
   {
     "title": "challenge three",
-    "difficulty": 1,
+    "difficulty": 2,
     "categories": ["presentationpatterns", "standardlibrary"],
     "expectedTime": 10,
     "branch": "challenge-three",
@@ -25,7 +25,7 @@
   },
   {
     "title": "challenge four",
-    "difficulty": 1,
+    "difficulty": 2,
     "categories": ["ui", "standardlibrary"],
     "expectedTime": 15,
     "branch": "challenge-four",
